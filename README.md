@@ -1,4 +1,4 @@
-## Olá, sou Octaciano Kuhn, estudante de ADS!
+## Olá, sou Octaciano Kuhn.
 
 <div align="center">
   <a href="https://github.com/2kand2">
